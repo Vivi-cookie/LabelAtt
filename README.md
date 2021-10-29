@@ -53,8 +53,9 @@
 -	tSNE_implementation.py：使用tsne降维，导入生成的文本表示和分类标签生成相应的散点图、进行可视化分析。
 ### figs文件夹：存放生成的可视化图片
 
-### 实验结果
+## 实验结果
 - 注意力权重分析：
+
 ![LSTMAtt和LabelAtt在TREC数据集上的注意力权重分布对比示例](https://user-images.githubusercontent.com/65707124/139387601-02f2c896-0d41-4720-8faa-20a6291c65d2.png) 
 
 LSTMAtt和LabelAtt在TREC数据集上的注意力权重分布对比示例
@@ -63,6 +64,8 @@ LSTMAtt和LabelAtt在TREC数据集上的注意力权重分布对比示例
 
 LSTMAtt和LabelAtt在CR数据集上的注意力权重分布对比示例 
 - 文本聚类可视化分析：
--![image](https://user-images.githubusercontent.com/65707124/139387543-72f046a1-df27-455b-bc76-ad43efd5a08d.png)
+
+![image](https://user-images.githubusercontent.com/65707124/139387543-72f046a1-df27-455b-bc76-ad43efd5a08d.png)
+
 ![image](https://user-images.githubusercontent.com/65707124/139388371-b210466c-c541-4d4c-9307-736c49c0813b.png)
 
